@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.blog-list {
+  width: 70%;
+  margin: auto;
+  padding-left: 0px;
+}
+
+@media (max-width: 1024px) {
+  .blog-list {
+    width: 95%;
+  }
+}
